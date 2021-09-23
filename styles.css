@@ -1,4 +1,5 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
     background-color: black;
 }
 
@@ -6,12 +7,67 @@ body {
     margin: auto;
     width: 800px;
     height: 920px;
-    background-color: brown;
+    background-color: white;
 }
 
-.top {background-color: white;
-width: 800px;
-height: 80px;}
+.top {
+    display: flex;
+    justify-content: space-between;
+   padding-right: 15px;
+    background-color: white;  
+width: 780px;
+height: 80px; }
 
 
+.icontop {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 55px;
+}
 
+.icontop2 {
+    font-size: 45px;
+    padding-top: 18px;
+   }
+
+   .topmaster {
+       display: flex;
+       justify-content: space-between;
+   }
+   
+
+.text {
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 15px;
+        }
+
+.emoticons {
+    
+    padding-left: 15px;
+    padding-top: 10px;
+       }
+
+.likes {
+    padding-top: 12px;
+    padding-left: 15px;
+    
+}
+
+.another {
+    font-size: 25px;
+    padding-left: 12px;
+}
+
+.another2 {
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 9px;
+    
+}
+
+.another3 {
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 9px;
+}
