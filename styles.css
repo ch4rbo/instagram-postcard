@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.box {
+    margin: auto;
+    width: 800px;
+    height: 920px;
+    background-color: brown;
+}
+
+.top {background-color: white;
+width: 800px;
+height: 80px;}
+
+
+
